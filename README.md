@@ -10,11 +10,11 @@ A minimal fork of dwm with several quality of life improvements. It uses the iri
 - Per Tag
 - Dynamic Scratchpads
 - Status All Monitors
-## Requires
-- A C tool chain to compile
+## Requirements
+- A C tool chain
 - Font JetBrains Mono
-- dwm-blocks
+- [dwm-blocks](https://github.com/DioptricDesign/dwmblocks)
 ## Scripts 
-This fork of dwm is compatible with the scripts from the qtile chameleon project.
+This fork of dwm is compatible with the [scripts](https://github.com/DioptricDesign/scripts) from the qtile chameleon project.
 ## Autostart
 Autostart scripts should be in ```~/.dwm/autostart.sh```
