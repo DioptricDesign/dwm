@@ -1,5 +1,6 @@
 # dwm
 A minimal fork of dwm with several quality of life improvements. It uses the [Iris](https://github.com/DioptricDesign/Iris) color scheme. To learn more about [dwm](https://dwm.suckless.org/) and other similar projects check out [suckless](https://suckless.org/).
+## Patches
 - Auto Start
 - Bar Height
 - Center Window Name
