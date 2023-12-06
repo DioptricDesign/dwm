@@ -1,5 +1,5 @@
 # dwm
-A minimal fork of dwm with several quality of life improvements. It uses the iris color scheme.
+A minimal fork of dwm with several quality of life improvements. It uses the [Iris](https://github.com/DioptricDesign/Iris) color scheme.
 ## Patches
 - Always center
 - Auto Start
