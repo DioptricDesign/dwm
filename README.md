@@ -19,7 +19,7 @@ A minimal fork of dwm with several quality of life improvements. It uses the [Ir
 - Font JetBrains Mono
 ## Suggested
 - [dmenu](https://github.com/DioptricDesign/dmenu)
-- [dwmblocks](https://github.com/DioptricDesign/dwmblocks)
+- [slstatus](https://github.com/DioptricDesign/slstatus)
 - [scripts](https://github.com/DioptricDesign/scripts) 
 ### Autostart
 Autostart scripts should be in ```~/.dwm/autostart.sh```
