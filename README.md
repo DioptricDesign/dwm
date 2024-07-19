@@ -13,6 +13,7 @@ A minimal fork of dwm with several quality of life improvements. It uses the [Ir
 - Status All Monitors
 - Systray
 - Fullscreen
+- No Border
 ## Requirements
 - xorg
 - gcc make
