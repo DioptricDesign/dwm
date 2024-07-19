@@ -12,6 +12,7 @@ A minimal fork of dwm with several quality of life improvements. It uses the [Ir
 - Dynamic Scratchpads
 - Status All Monitors
 - Systray
+- Fullscreen
 ## Requirements
 - xorg
 - gcc make
